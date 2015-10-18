@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=gui8
+Exec=python /home/lochana/Desktop/guipy/gui8.py
+Icon=/home/lochana/Desktop/download.png
+Terminal=false
+Type=Application
+

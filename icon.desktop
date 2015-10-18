@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Test
+Exec=python /home/lochana/Desktop/guipy/gui5.py
+Icon=/home/lochana/Desktop/guipy/python.png
+Terminal=False
+Type=Application
+
